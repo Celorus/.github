@@ -1,3 +1,5 @@
+<img src="./celorus-banner.png" alt="Celorus — the trusted-context layer on companies." width="100%">
+
 ## Celorus
 
 **We make knowledge work AI-native.**
